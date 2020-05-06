@@ -30,6 +30,9 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_p.mk)
 $(call inherit-product, device/xiaomi/platina/device.mk)
 
 # EvoX
+EVO_DONATE_URL := https://www.paypal.me/RioTApex
+EVO_MAINTAINER := Lunarixus
+EVO_SUPPORT_URL := https://t.me/EvolutionXPlatina
 CUSTOM_BUILD_TYPE := OFFICIAL
 TARGET_INCLUDE_STOCK_ARCORE := true
 TARGET_INCLUDE_WIFI_EXT := true
