@@ -52,3 +52,6 @@ WLAN_MAC_SYMLINK := true
 
 # Charger
 TARGET_PIXEL_CHARGE_ANIM := true
+
+# XiaomiParts
+TARGET_SUPPORTS_XIAOMIPARTS := false
