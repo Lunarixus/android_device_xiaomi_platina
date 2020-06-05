@@ -39,4 +39,7 @@
     <!-- Whether device has a physical display cutout -->
     <bool name="config_physicalDisplayCutout">true</bool>
 
+    <!-- Specify if the fingerprint hardware support gestures-->
+    <bool name="config_fingerprintSupportsGestures">false</bool>
+
 </resources>
